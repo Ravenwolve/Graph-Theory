@@ -1,0 +1,11 @@
+W D
+ A B C D E F G H I
+ A
+ B F 8
+ C F 0
+ D G -5.5
+ E B 34 C 0 D 21 F -54 G 91 H -12.2 I 2
+ F
+ G G 10
+ H F 5
+ I C 4
